@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "id": 0,
+            "name": "Alisson Oliveira",
+            "email": "oliveira.alisson@gmail.com",
+            "age": 25
+        },
+        {
+            "id": 1,
+            "name": "Alisson Oliveira",
+            "email": "oliveira.alisson@gmail.com",
+            "age": 25
+        },
+        {
+            "id": 2,
+            "name": "Alisson Oliveira",
+            "email": "oliveira.alisson@gmail.com",
+            "age": 25
+        },
+        {
+            "id": 3,
+            "name": "Alisson Oliveira",
+            "email": "oliveira.alisson@gmail.com",
+            "age": 25
+        }
+    ]
+}
